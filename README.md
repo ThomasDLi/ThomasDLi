@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThomasDLi, a 13 year old programmer living in Canada
 - 👀 I’m interested in random internet memes
-- 🤔 I'm familiar with Python, Unity Game Engine, C#, Arduino C, Godot Game Engine, HTML5
+- 🤔 I'm familiar with Python, Unity Game Engine/C#, Arduino's C++, Godot Game Engine, HTML5
 - 🌱 I’m currently learning Java
 
 <!---
