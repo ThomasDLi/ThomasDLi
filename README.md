@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThomasDLi, a 13 year old programmer living in Canada
+- 👋 Hi, I’m @ThomasDLi, a programmer living in Canada
 - 👀 I’m interested in random internet memes
 - 🤔 I'm familiar with Python, Unity Game Engine/C#, Arduino's C++, C++, Godot Game Engine, HTML5, Java, Javascript (frameworks: Next.JS and React)
 - 🌱 I’m currently learning C and operating systems
